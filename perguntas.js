@@ -11,49 +11,27 @@ criaCartao (
 )
 
 criaCartao (
-    'Lingua Portuguesa',
+    'Língua Portuguesa',
     'O que é uma oração subordinada adverbial?',
     'É uma oração que exerce função de advérbio em relação à oração principal, indicando circunstâncias como causa, condição, tempo, finalidade etc..'
 )
 
 criaCartao (
-    'Geografia',
-    'Quais são as estações do ano ?',
-    'Outono, Inverno, Verão, Primavera'
+    'Robótica',
+    'O que é Arduino?',
+    ' Arduino é uma plataforma de prototipagem eletrônica utilizada para criar projetos programáveis, como robôs, sensores e sistemas automatizados.
+
+.'
 )
 
 criaCartao (
-    'Empreendedorismo',
-    'O que é MEI?',
-    'Microempreendedorismo individual '
+    'Educação Física',
+    'Qual é a importância da atividade física regular?',
+    'Ela contribui para a saúde cardiovascular, força, resistência, controle do peso, bem-estar mental e prevenção de diversas doenças. '
 )
 
 criaCartao (
-    'Empreendedorismo',
-    'O que é receita recorrente?',
-    'Fluxo continuo de faturamento gerado para a empresa'
-)
-
-criaCartao (
-    'Empreendedorismo',
-    'O que e previsibilidade?',
-    'qualidade da pessoa que se comporta da forma como se espera'
-)
-
-criaCartao (
-    'Empreendedorismo',
-    'Quais são as vantagens de um negócio ser escalável?',
-    'as empresa s adotam melhorias nos processos e conquistam mais credibilidade para a marca'
-)
-
-criaCartao (
-    'Biologia',
-    'Quais são os tipos de agrotóxicos?',
-    'Inseticidas, fungicidas, herbicidas, esfoliantes e fumigantes'
-)
-
-criaCartao (
-    'Biologia',
-    'Qual o conceito de saúde?',
-    'Um estado de completo bem-estar físico, mental e social, não apenas na ausência de doenças'
+    'Matemática',
+    'O que é área?',
+    'Área é a medida da superfície de uma figura, ou seja, o espaço que ela ocupa dentro de seus limites.'
 )
