@@ -35,3 +35,26 @@ criaCartao (
     'O que é área?',
     'Área é a medida da superfície de uma figura, ou seja, o espaço que ela ocupa dentro de seus limites.'
 )
+criaCartao (
+    'Física',
+    'O que é velocidade média?',
+    ' É a razão entre o deslocamento realizado e o intervalo de tempo'
+)
+
+criaCartao (
+    'História',
+    'Qual foi o principal produto da economia brasileira durante boa parte do Segundo Reinado?',
+    'O café.'
+)
+
+criaCartao (
+    'Sociologia',
+    'O que é alienação para Karl Marx?',
+    ' É a situação em que o trabalhador perde o controle sobre seu trabalho e sobre aquilo que produz.'
+)
+
+criaCartao (
+    'Física e tecnociência',
+    'O que é tecnociência?',
+    '  É a relação entre ciência e tecnologia, mostrando como o conhecimento científico e as inovações tecnológicas se influenciam.'
+)
